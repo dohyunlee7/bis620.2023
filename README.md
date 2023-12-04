@@ -5,8 +5,8 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/sahil-681/bis620.2023/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sahil-681/bis620.2023/actions/workflows/R-CMD-check.yaml)
-[![test-coverage](https://github.com/sahil-681/bis620.2023/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/sahil-681/bis620.2023/actions/workflows/test-coverage.yaml)
+[![R-CMD-check](https://github.com/dohyunlee7/bis620.2023/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/dohyunlee7/bis620.2023/actions/workflows/R-CMD-check.yaml)
+[![test-coverage](https://github.com/dohyunlee7/bis620.2023/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/dohyunlee7/bis620.2023/actions/workflows/test-coverage.yaml)
 <!-- badges: end -->
 
 The goal of bis620.2023 is to create an R package which is developed
@@ -46,7 +46,7 @@ You can install the development version of bis620.2023 from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("sahil-681/bis620.2023")
+devtools::install_github("dohyunlee7/bis620.2023")
 ```
 
 ## Example
