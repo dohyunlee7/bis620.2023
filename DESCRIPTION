@@ -2,8 +2,8 @@ Package: bis620.2023
 Type: Package
 Title: Functions and Data for the BIS620 (2023) Class
 Version: 0.1.0
-Author: Sahil Singh
-Maintainer: The package maintainer <sahil.singh@yale.edu>
+Author: Dohyun Lee
+Maintainer: The package maintainer <dohyun.lee@yale.edu>
 Description: Functions and data captured for BIS 620 class.
 License: GPL (>= 2)
 Encoding: UTF-8
